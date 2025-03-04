@@ -82,12 +82,15 @@ This data reflects strong diversity across different racial and gender groups, w
 
 1. Workforce Growth & Hiring Strategies:
 The hiring trend analysis helps HR teams forecast hiring needs and adjust recruitment strategies based on past trends.
-2. Employee Retention & Turnover:
+
+3. Employee Retention & Turnover:
 With 2,671 terminations, further analysis could identify if certain departments or demographic groups have higher attrition rates.
-3. Diversity & Inclusion Efforts:
+
+5. Diversity & Inclusion Efforts:
 The racial and gender diversity statistics highlight areas for improvement in inclusive hiring.
 HR teams can use this data to develop targeted diversity programs.
-4. Remote Work & Office Policies:
+
+7. Remote Work & Office Policies:
 With 24.75% remote employees, further investigation could reveal how remote work impacts productivity, retention, and job satisfaction.
 
 
@@ -164,17 +167,17 @@ Bedroom Distribution: Most homes have 3-4 bedrooms, with fewer homes exceeding 5
 
 Bathroom Distribution: The majority of houses have 2-3 bathrooms, with few homes having 0 or more than 5 bathrooms.
 
-**3. Key Takeaways**
+**3. Key Insights**
 
-House prices fluctuate daily, showing trends based on demand and external factors.
+-House prices fluctuate daily, showing trends based on demand and external factors.
 
-Property condition and view quality significantly influence house prices.
+-Property condition and view quality significantly influence house prices.
 
-Most properties fall within the mid-range price category ($200K - $800K).
+-Most properties fall within the mid-range price category ($200K - $800K).
 
-The number of bedrooms and bathrooms follows a predictable trend, making it easier to categorize properties.
+-The number of bedrooms and bathrooms follows a predictable trend, making it easier to categorize properties.
 
-Certain regions within King County have higher-valued properties, influencing investment opportunities.
+-Certain regions within King County have higher-valued properties, influencing investment opportunities.
 
 **4. Future Enhancements**
 
